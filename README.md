@@ -1,5 +1,5 @@
-<h1 align="left">Fala Galera 👋 Eduardo Deschamps Aqui:</h1>
-<h3 align="left">Front-end Developer</h3>
+<h1 align="center">Fala Galera 👋 Eduardo Deschamps Aqui:</h1>
+<h3 align="center">Front-end Developer</h3>
 
 - 📫 Fale Comigo: **eduardo.ddeschamps@gmail.com**
 
@@ -14,7 +14,7 @@
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto; padding: 10px 0;">
 
   <!-- Linguagens -->
-  <div style="margin-right: 20px;">
+  <div style="margin-right: 20px; flex: 1;">
     <h4>Linguagens:</h4>
     <p>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -35,6 +35,11 @@
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
       </a>
+    </p>
+  </div>
+
+  <!-- Frameworks e Bibliotecas -->
+  <div style="margin-right: 20px; flex: 1;">
     <h4>Frameworks e Bibliotecas:</h4>
     <p>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -53,11 +58,14 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
       </a>
     </p>
-     </p>
   </div>
 
-  <!-- Bancos de Dados -->
-  <div style="margin-right: 20px;">
+</div>
+
+<!-- Bancos de Dados -->
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; padding: 10px 0;">
+
+  <div style="margin-right: 20px; flex: 1;">
     <h4>Bancos de Dados:</h4>
     <p>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -67,11 +75,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
       </a>
     </p>
-     
   </div>
 
   <!-- Outras Ferramentas -->
-  <div>
+  <div style="margin-right: 20px; flex: 1;">
     <h4>Outras Ferramentas:</h4>
     <p>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
