@@ -10,12 +10,13 @@
   <a href="https://discord.gg/ddeschamps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ddeschamps" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<h3 align="left">Tech Stack:</h3>
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; padding: 10px 0;">
 
   <!-- Linguagens -->
-  <div>
-    <h3 align="left">Linguagens:</h3>
-    <p align="left">
+  <div style="margin-right: 20px;">
+    <h4>Linguagens:</h4>
+    <p>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
       </a>
@@ -38,9 +39,9 @@
   </div>
 
   <!-- Frameworks e Bibliotecas -->
-  <div>
-    <h3 align="left">Frameworks e Bibliotecas:</h3>
-    <p align="left">
+  <div style="margin-right: 20px;">
+    <h4>Frameworks e Bibliotecas:</h4>
+    <p>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
       </a>
@@ -58,15 +59,11 @@
       </a>
     </p>
   </div>
-  
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
   <!-- Bancos de Dados -->
-  <div>
-    <h3 align="left">Bancos de Dados:</h3>
-    <p align="left">
+  <div style="margin-right: 20px;">
+    <h4>Bancos de Dados:</h4>
+    <p>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
       </a>
@@ -78,10 +75,28 @@
 
   <!-- Outras Ferramentas -->
   <div>
-    <h3 align="left">Outras Ferramentas:</h3>
-    <p align="left">
+    <h4>Outras Ferramentas:</h4>
+    <p>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
       </a>
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
+      </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+      </a>
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
+      </a>
+      <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="60" height="60"/>
+      </a>
+    </p>
+  </div>
+
+</div>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deschamps10&show_icons=true&locale=en&layout=compact" alt="deschamps10" />
+</p>
