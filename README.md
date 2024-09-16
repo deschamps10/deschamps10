@@ -36,10 +36,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
       </a>
     </p>
-  </div>
-
-  <!-- Frameworks e Bibliotecas -->
-  <div style="margin-right: 20px;">
     <h4>Frameworks e Bibliotecas:</h4>
     <p>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
