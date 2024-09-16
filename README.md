@@ -35,7 +35,6 @@
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
       </a>
-    </p>
     <h4>Frameworks e Bibliotecas:</h4>
     <p>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -54,6 +53,7 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
       </a>
     </p>
+     </p>
   </div>
 
   <!-- Bancos de Dados -->
@@ -67,6 +67,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
       </a>
     </p>
+     
   </div>
 
   <!-- Outras Ferramentas -->
