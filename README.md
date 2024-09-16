@@ -12,8 +12,7 @@
 
 <h3 align="left">Tech Stack:</h3>
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto; padding: 10px 0;">
-
-  <!-- Linguagens -->
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div style="margin-right: 20px; flex: 1;">
     <h4>Linguagens:</h4>
     <p>
@@ -37,9 +36,8 @@
       </a>
     </p>
   </div>
-
-  <!-- Frameworks e Bibliotecas -->
-  <div style="margin-right: 20px; flex: 1;">
+  
+  <div style="flex: 1;">
     <h4>Frameworks e Bibliotecas:</h4>
     <p>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -59,8 +57,8 @@
       </a>
     </p>
   </div>
-
 </div>
+
 
 <!-- Bancos de Dados -->
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto; padding: 10px 0;">
