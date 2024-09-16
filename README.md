@@ -1,5 +1,5 @@
-<h1 align="center">Fala Galera 👋 Eduardo Deschamps Aqui:</h1>
-<h3 align="center">Front-end Developer</h3>
+<h1 align="left">Fala Galera 👋 Eduardo Deschamps Aqui:</h1>
+<h3 align="left">Front-end Developer</h3>
 
 - 📫 Fale Comigo: **eduardo.ddeschamps@gmail.com**
 
