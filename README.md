@@ -1,3 +1,4 @@
+
 ## Fala, Galera! Eduardo Deschamps aqui 👋
 
  **Front-end Developer**
@@ -68,9 +69,9 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=deschamps10&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="200" style="flex: 1; max-width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deschamps10&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="400" height="200" style="flex: 1; max-width: 400px;" />
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=deschamps10&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deschamps10&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="48%" height="200px" />
 </div>
 
 ---
@@ -78,8 +79,6 @@
 ## 🏆 Contribuições nos Repositórios
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deschamps10&theme=radical&rank=SECRET,SSS,SS,S,A,AA,AAA)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ---
 
