@@ -73,8 +73,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=deschamps10&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deschamps10&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="48%" height="200px" />
 </div>
-
-![Minhoquinha](https://github.com/deschamps10.png?size=50)
-
-
 ---
