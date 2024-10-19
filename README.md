@@ -76,10 +76,4 @@
 
 ---
 
-## 🏆 Contribuições nos Repositórios
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=deschamps10&theme=radical&rank=SECRET,SSS,SS,S,A,AA,AAA)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### Eduardo Deschamps
