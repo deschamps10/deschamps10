@@ -74,6 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deschamps10&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="48%" height="200px" />
 </div>
 
-[![minha cobrinha](https://github.com/deschamps10/minha_cobrinha/commits/main)](https://github.com/deschamps10/minha_cobrinha/commits/main)
+![Minhoquinha](https://github.com/deschamps10.png?size=50)
+
 
 ---
