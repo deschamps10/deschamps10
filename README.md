@@ -75,5 +75,3 @@
 </div>
 
 ---
-
-### Eduardo Deschamps
